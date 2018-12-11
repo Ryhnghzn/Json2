@@ -1,0 +1,17 @@
+[
+  {
+    "Namaproyek": "Metland Cibitung",
+    "Image": "http://metropolitanland.com/assets/images/uploads/res854f300cd510007cbd4dff775d6d3152.png",
+    "Cluster": "Cluster a"
+  },
+  {
+    "Name": "Capuchin Monkey",
+    "Location": "Central & South America",
+    "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
+    "Image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Capuchin_Costa_Rica.jpg/200px-Capuchin_Costa_Rica.jpg",
+    "Population": 23000,
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  }
+ 
+]
