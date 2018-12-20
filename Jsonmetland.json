@@ -1,0 +1,14 @@
+[
+  {
+	"Id": "1",
+    "Namaproyek": "Metland Cibitung",
+    "Image": "http://metropolitanland.com/assets/images/uploads/res854f300cd510007cbd4dff775d6d3152.png",
+    "Cluster": "Cluster a"
+  },
+  {
+   "Id": "2",
+   "Namaproyek": "Metland Menteng",
+   "Image" : "http://metropolitanland.com/assets/images/uploads/resb219d67b43dd4b4b72c7c2a4b9ae9f9f.png",
+   "Cluster": "Cluster d"
+  }
+]
